@@ -1,0 +1,8 @@
+iniciar o projeto com adonis
+	- npm init adonis-ts-app@latest .
+	
+CLI do node
+	- node ace
+	
+Iniciar o server
+	- node ace serve --watch
