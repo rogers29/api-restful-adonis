@@ -1,11 +1,11 @@
 # Api restful utilizando AdonisJs
 
-## tecnologias Utilizadas
+## Tecnologias Utilizadas
 - AdonisJs
 - SQLite
 
 
-### iniciar o projeto com adonis
+### Iniciar o projeto com adonis
 	- npm install
 	
 ### Iniciar o server
