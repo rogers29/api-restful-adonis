@@ -6,7 +6,7 @@
 
 
 ### Iniciar o projeto com adonis
-	- npm install
+	- `npm install`
 	
 ### Iniciar o server
-	- node ace serve --watch
+	- `node ace serve --watch`
